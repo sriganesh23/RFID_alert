@@ -1,4 +1,4 @@
-/*This is the code for uploading the information into the RFID tag*/
+//This is the code for uploading the information into the RFID tag
 // This code belongs to GUBBALA SRI GANESH
 // 21BEC7184 - Vellore Institute of Technology, Andhra Pradesh
 
