@@ -1,3 +1,7 @@
+//This is the code to run the Node MCU for emergency alert system with RFID
+//This code belong to GUBBALA SRI GANESH
+// 21BEC7184 - Vellore Institute of Technology, Andhra Pradesh
+
 #include <SPI.h>
 #include <MFRC522.h>
 #include <Arduino.h>
